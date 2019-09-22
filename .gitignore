@@ -9,3 +9,5 @@ build/
 **/ios/.generated/
 **/ios/Flutter/Generated.xcconfig
 **/ios/Runner/GeneratedPluginRegistrant.*
+/.idea/
+/charts_flutter/example/ios/Flutter/flutter_export_environment.sh
